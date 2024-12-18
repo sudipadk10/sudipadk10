@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sudip Adhikari
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning CCNA
+- 🌱 I’m currently learning Web Security
 
 
 <!---
